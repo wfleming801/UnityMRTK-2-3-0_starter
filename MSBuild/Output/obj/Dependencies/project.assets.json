@@ -146,8 +146,8 @@
     },
     "DotNetAdapter/1.0.0": {
       "type": "project",
-      "path": "MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/DotNetAdapter.csproj",
-      "msbuildProject": "MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/DotNetAdapter.csproj"
+      "path": "../../UnityMRTK-2-3-0_starter/Assets/MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/DotNetAdapter.csproj",
+      "msbuildProject": "../../UnityMRTK-2-3-0_starter/Assets/MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/DotNetAdapter.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -164,9 +164,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wflem\\dev\\UnityMRTK-2-3-0_starter\\Assets\\UnityMRTK-2-3-0_starter.Dependencies.msb4u.csproj",
+      "projectUniqueName": "C:\\Users\\wflem\\dev\\testStarter\\Assets\\UnityMRTK-2-3-0_starter.Dependencies.msb4u.csproj",
       "projectName": "UnityMRTK-2-3-0_starter.Dependencies.msb4u",
-      "projectPath": "C:\\Users\\wflem\\dev\\UnityMRTK-2-3-0_starter\\Assets\\UnityMRTK-2-3-0_starter.Dependencies.msb4u.csproj",
+      "projectPath": "C:\\Users\\wflem\\dev\\testStarter\\Assets\\UnityMRTK-2-3-0_starter.Dependencies.msb4u.csproj",
       "packagesPath": "C:\\Users\\wflem\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\wflem\\dev\\UnityMRTK-2-3-0_starter\\MSBuild\\Output\\obj\\Dependencies\\",
       "projectStyle": "PackageReference",
@@ -175,7 +175,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wflem\\dev\\UnityMRTK-2-3-0_starter\\Assets\\NuGet.Config",
+        "C:\\Users\\wflem\\dev\\testStarter\\Assets\\NuGet.Config",
         "C:\\Users\\wflem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

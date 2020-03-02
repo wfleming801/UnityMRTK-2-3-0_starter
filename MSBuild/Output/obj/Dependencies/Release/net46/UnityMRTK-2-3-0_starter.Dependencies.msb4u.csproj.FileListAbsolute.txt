@@ -9,3 +9,13 @@ C:\Users\wflem\dev\UnityMRTK-2-3-0_starter\Assets\Dependencies\net46\System.Draw
 C:\Users\wflem\dev\UnityMRTK-2-3-0_starter\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT.dll
 C:\Users\wflem\dev\UnityMRTK-2-3-0_starter\Assets\Dependencies\net46\System.Drawing.Primitives.dll
 C:\Users\wflem\dev\UnityMRTK-2-3-0_starter\MSBuild\Output\obj\Dependencies\Release\net46\UnityMRTK-2-3-0_starter.Dependencies.msb4u.csproj.CopyComplete
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef.meta
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs.meta
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll.meta
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT.dll.meta
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\System.Drawing.Primitives.dll.meta
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT.dll
+C:\Users\wflem\dev\testStarter\Assets\Dependencies\net46\System.Drawing.Primitives.dll

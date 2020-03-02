@@ -2,7 +2,23 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
+# -- we want to capture the buildsettings and LastScene, to kick-start development
+#/[Ll]ibrary/
+/[Ll]ibrary/metadata/
+/[Ll]ibrary/PackageCache/
+/[Ll]ibrary/PlayerDataCache/
+/[Ll]ibrary/ScriptAssemblies/
+/[Ll]ibrary/ShaderCache/
+/[Ll]ibrary/StateCache/
+/[Ll]ibrary/*
+![Ll]ibrary/BuildSettings.asset
+![Ll]ibrary/EditorOnlyScriptingUserSettings.json
+![Ll]ibrary/EditorUserBuildSettings.asset
+![Ll]ibrary/EditorUserSettings.asset
+![Ll]ibrary/LastSceneManagerSetup.txt
+![Ll]ibrary/ProjectSettings.asset
+
+
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
