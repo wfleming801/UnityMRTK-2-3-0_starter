@@ -275,7 +275,8 @@ $RECYCLE.BIN/
 [Oo]bj/
 UWP/
 [Bb]uild
-/[Ll]ibrary/
+# using custom rules above to capture build settings etc.
+#/[Ll]ibrary/
 sysinfo.txt
 *.stackdump
 project.lock.json
