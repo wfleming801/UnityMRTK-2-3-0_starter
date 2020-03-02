@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5813f9e8596afa04580b7702754fc946
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: UnityMRTK-2-3-0_starter.Dependencies.msb4u
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 0e4dca1acba66fd478b3854f09a32ec7, type: 3}
+  buildEngine: 0
+  profiles: []
