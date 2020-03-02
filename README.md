@@ -20,14 +20,21 @@ Please fork as desired to start-off your own projects.
 
 ## ASSUMPTIONS:
 1. Unity **2018.4.17f1** installed or equivalent compatible version
-2. Visual Studio **2019** installed
-3. git installed (2.25.0.windows.1)
+2. Windows SDK installed (minimal 10.0.10240.0, preferred latest: **10.0.18362.0** )
+3. Visual Studio **2019** installed
+4. git installed (2.25.0.windows.1)
 
 ### Unity -- initially using version: 2018.4.17f1
 https://unity.com/
 
+### Microsoft Windows 10 SDK
+https://developer.microsoft.com/en-US/windows/downloads/windows-10-sdk/
+
 ### MRTK (Mixed Reality Toolkit) 
 https://microsoft.github.io/MixedRealityToolkit-Unity/README.html
+
+### git for Windows 10
+https://git-scm.com/downloads
 
 ### git ignore settings obtained from Cameron Vetters' incredible tutorials
 https://www.cameronvetter.com/2016/11/02/hololens-tutorial-source-control/
