@@ -39,6 +39,8 @@ https://git-scm.com/downloads
 ### git ignore settings obtained from Cameron Vetters' incredible tutorials
 https://www.cameronvetter.com/2016/11/02/hololens-tutorial-source-control/
 
+-- with modification to the gitignore to allow some files in Library. (see Library/README.md)
+
 
 
 
