@@ -18,7 +18,7 @@ Please fork as desired to start-off your own projects.
  XR setting
  5. MRTK is added to the initial scene, and that scene is already added to the build
  
- Overall time savings: 30+ minutes
+ #### Overall time savings: 30+ minutes
 
 ## ASSUMPTIONS:
 1. Unity **2018.4.17f1** installed or equivalent compatible version
