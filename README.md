@@ -17,6 +17,8 @@ Please fork as desired to start-off your own projects.
  4. Unity build and player settings set for UWP platform and HoloLens in addition to MRTK recommended settings, 16-bit depth format
  XR setting
  5. MRTK is added to the initial scene, and that scene is already added to the build
+ 
+ Overall time savings: 30+ minutes
 
 ## ASSUMPTIONS:
 1. Unity **2018.4.17f1** installed or equivalent compatible version
