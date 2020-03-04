@@ -309,4 +309,4 @@ $RECYCLE.BIN/
 
 # wfleming801 added
 *.[Cc]ache
-
+/MSBuild/Output/obj/
