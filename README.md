@@ -29,10 +29,11 @@ Please fork as desired to start-off your own projects.
 1. Meet ASSUMPTIONS
 2. Fork this repo
 3. Open This project(folder) in Unity
-4. File | Build Settings... Build -- choose App/ folder
-5. Open solution in Visual Studio 2019
-6. Set Debug, X86, Device (Or emulator)
-7. Run
+4. Edit | Project Settings... select Player, change "Product Name" to be your product (see #1)
+5. File | Build Settings... Build -- choose App/ folder
+6. Open solution in Visual Studio 2019
+7. Set Debug, X86, Device (Or emulator)
+8. Run
 
 ### Unity -- initially using version: 2018.4.17f1
 https://unity.com/
