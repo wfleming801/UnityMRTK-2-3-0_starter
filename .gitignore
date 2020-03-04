@@ -307,4 +307,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# wfleming801 added
+*.[Cc]ache
 
