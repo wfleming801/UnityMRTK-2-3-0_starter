@@ -10,3 +10,7 @@ By preserving the following files, we can set build target and other settings in
 4. EditorUserSettings.asset
 5. LastSceneManagerSetup.txt
 6. ProjectSettings.asset
+
+
+## ProjectSettings.asset
+This file is stored in repo WITHOUT a value for ProductName. This allows a forked version of this project to "auto-fill" with the forked repo name
