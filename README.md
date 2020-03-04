@@ -31,6 +31,7 @@ Please fork as desired to start-off your own projects.
 3. Open This project(folder) in Unity
 
 ~~4. Edit | Project Settings... select Player, change "Product Name" to be your product~~
+
 5. File | Build Settings... Build -- choose App/ folder
 6. Open solution in Visual Studio 2019
 7. Set Debug, X86, Device (Or emulator)
