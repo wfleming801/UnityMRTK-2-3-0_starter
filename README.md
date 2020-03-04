@@ -23,6 +23,7 @@ Please fork as desired to start-off your own projects.
 2. Windows SDK installed (minimal 10.0.10240.0, preferred latest: **10.0.18362.0** )
 3. Visual Studio **2019** installed
 4. git installed (2.25.0.windows.1)
+5. git LFS support installed
 
 ## STEPS to deploy
 1. Meet ASSUMPTIONS
@@ -51,6 +52,9 @@ https://www.cameronvetter.com/2016/11/02/hololens-tutorial-source-control/
 
 -- with modification to the gitignore to allow some files in Library. (see Library/README.md)
 
+### git LFS support
+Thoughtbot has a nice howto 
+https://thoughtbot.com/blog/how-to-git-with-unity
 
 
 
